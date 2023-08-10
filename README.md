@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/release-v1.0.0--beta-blue)
 
 - 🛠 I’m currently working as a 🛠 Network Information Security Engineer engineer @Netfos TW.
-- 💬 How to reach me: [TelegramG](https://t.me/GGboyForLife)
+- 💬 How to reach me: [Telegram](https://t.me/GGboyForLife)
